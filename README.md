@@ -3,6 +3,12 @@
 ## Project Overview
 This project features a comprehensive Power BI dashboard designed to analyze food ordering trends, customer purchasing behaviors, and delivery metrics. By transforming raw data into interactive visualizations, this analysis provides actionable insights into revenue generation and payment preferences within a food delivery ecosystem (inspired by platforms like Zomato).
 
+### Revenue & Order Metrics Dashboard
+![Revenue Dashboard](Dashboard-Page1.png)
+
+### Customer & Payment Trends Dashboard
+![Payment Methods Dashboard](Dashboard-Page2.png)
+
 ## 🎯 Key Insights 
 The dashboard is split into distinct report pages, highlighting the following metrics:
 
